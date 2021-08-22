@@ -18,7 +18,9 @@ Por favor sigue los siguiente pasos, ingresa a la consola del sistema.
 
 ## Credenciales API - Pasarelas de Pago
 
-Debes tener una cuenta activa o en su defecto registrarte en cada plataforma para poder acceder a las respectivas credenciales API
+Debes tener una cuenta activa o en su defecto registrarte en cada plataforma para poder acceder a las respectivas credenciales API.
+
+Una vez, obtenidas dichas credenciales deber ir al archivo .env y pegarlas en las variables que corresponden a cada plataforma de pago.
 
 ### Plataformas de Pago
 - Paypal
