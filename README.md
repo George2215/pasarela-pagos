@@ -10,11 +10,11 @@
 ## Instalación del Proyecto
 
 Por favor sigue los siguiente pasos, ingresa a la consola del sistema.
-- `$composer install`
+- `composer install`
 - Haz una copia del archivo .env.example y renombrala como .env o digita este comando
-  `$cp .env.example .env`
-- `$php artisan key:generate`, este comando nos permitirá generar una nueva API key
-- Ejecutar las migraciones con `$php artisan migrate --seed`
+  `cp .env.example .env`
+- `php artisan key:generate`, este comando nos permitirá generar una nueva API key
+- Ejecutar las migraciones con `php artisan migrate --seed`
 
 ## Credenciales API - Plataformas de Pago
 
