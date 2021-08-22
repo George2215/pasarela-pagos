@@ -1,0 +1,1 @@
+<small>Ud. será dirigido a la página de Checkout de PayPal</small>
