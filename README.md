@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Como instalar el Proyecto
+## Instalación del Proyecto
 
 Por favor sigue los siguiente pasos, ingresa a la consola del sistema.
 - composer install
@@ -21,10 +21,10 @@ Por favor sigue los siguiente pasos, ingresa a la consola del sistema.
 Debes tener una cuenta activa o en su defecto registrarte en cada plataforma para poder acceder a las respectivas credenciales API
 
 ### Plataformas de Pago
--Paypal
--Stripe
--MercadoPago
--PayU
+- Paypal
+- Stripe
+- MercadoPago
+- PayU
 
 ## License
 
